@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 this is new updation
+=======
+this is git hub update
+>>>>>>> feature
